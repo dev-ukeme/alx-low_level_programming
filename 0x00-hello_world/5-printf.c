@@ -3,9 +3,9 @@
 /**
  * main - Entry point
  *
- * Description : prints a text
+ * Description: prints a text
  *
- * Return : 0 success
+ * Return: 0 success
  */
 
 int main(void)
