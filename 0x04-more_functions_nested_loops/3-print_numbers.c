@@ -2,6 +2,7 @@
 
 /**
  * print_numbers - prints numbers between 0 to 9.
+ * Description: prints numbers
  * Return: no return.
  */
 
